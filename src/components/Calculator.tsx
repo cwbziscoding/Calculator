@@ -97,7 +97,7 @@ export default function Calculator() {
   };
 
   return (
-    <div className="w-120 h-215 bg-[#080808] rounded-2xl">
+    <div className="w-120 h-215 bg-[#080808] rounded-2xl shadow-xl">
       <div className="m-3 h-65 text-white text-6xl font-semibold bg-[#313131] rounded-t-xl p-2">
         <textarea
           className="w-full h-full outline-0 resize-none"
